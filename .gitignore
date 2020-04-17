@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+
+*.opensdf
+*.sdf
+*.suo
+HelloWorld/HelloWorld/ipch/
+HelloWorld/HelloWorld/Debug/
+HelloWorld/Debug/
+*.user
+HelloWorld/ipch/
