@@ -40,3 +40,6 @@ HelloWorld/HelloWorld/Debug/
 HelloWorld/Debug/
 *.user
 HelloWorld/ipch/
+HelloWorld/HelloWorld/x64
+*.ilk
+*.pdb
